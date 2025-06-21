@@ -183,7 +183,7 @@ export default function Portfolio() {
             <div className="about-content">
               <div className="about-text reveal">
                 <p>
-                  I'm Apurva, a passionate web developer and AI enthusiast currently pursuing B.Tech in Mechanical Engineering (2022–2026) at Mahatma Gandhi Shikshan Sansthan, Bihar. I love building real-world full-stack applications and exploring the intersection of AI with web development.
+                  I'm Apurva, a passionate web developer and AI enthusiast currently pursuing B.Tech in Computer Science (2022–2026) from J.C Bose university of science and technology. I love building real-world full-stack applications and exploring the intersection of AI with web development.
                 </p>
               </div>
               
